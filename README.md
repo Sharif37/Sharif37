@@ -1,10 +1,10 @@
-# Hi there! 👋 I'm [Kazi Omar Sharif]
+# Hi there! 👋 I'm Kazi Omar Sharif
 
 ## About Me
 
 I'm a passionate Android developer with a strong foundation in competitive programming. My coding journey began with languages like Java, C/C++, and I've since expanded into the world of web development using Node.js, Express, and MySQL. I'm also proficient in Kotlin, which is my go-to language for Android app development.
 
-- 🌱 I’m currently exploring [Competitive Programming Challenges].
+- 🌱 I’m currently exploring Competitive Programming Challenges.
 - 💬 Ask me about Android development, competitive programming, Java, C/C++, Kotlin, Node.js, Express, MySQL, PostgreSQL, and Firebase.
 - 📫  How to reach me: [sharif.csecu@gmail.com](mailto:youremail@example.com)
 
