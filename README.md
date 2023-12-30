@@ -30,7 +30,7 @@ I'm currently working on a project that involves implementing Agile development 
 
 ## GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharif37&show_icons=true&theme=dark)
 
 ## Competitive Programming Profiles
 
@@ -43,5 +43,5 @@ I'm currently working on a project that involves implementing Agile development 
 
 ## Profile Views
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername)
+![Profile Views](https://komarev.com/ghpvc/?username=sharif37)
     
