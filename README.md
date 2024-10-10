@@ -6,8 +6,7 @@ I'm a passionate Android developer with a strong foundation in competitive progr
 
 - 🌱 I’m currently exploring Competitive Programming Challenges.
 - 💬 Ask me about Android development, competitive programming, Java, C/C++, Kotlin, Node.js, Express, MySQL, PostgreSQL, and Firebase.
-- 📫  How to reach me: [sharif.csecu@gmail.com](mailto:youremail@example.com)
-
+- 📫  How to reach me: [sharif.csecu@gmail.com](mailto:sharif.csecu@gmail.com)
 
 ## My Tech Stack
 
@@ -20,17 +19,25 @@ I'm a passionate Android developer with a strong foundation in competitive progr
 - PostgreSQL
 - Firebase
 
+## Hacktoberfest 2024 Achievement 🎉
+
+I participated in **Hacktoberfest 2024** and successfully completed the challenge by submitting four accepted PR/MRs! This was my first time contributing to open-source, and it’s an exciting new journey for me. You can check out my Hall of Fame listing [here](https://holopin.io/@sharif037).
+
+## Holopin Badges 🏅
+
+[![My Holopin Badges](https://holopin.me/sharif037)](https://holopin.io/@sharif037)
+
 ## Current Project: Agile Development Tools
 
-I'm currently working on a project that involves implementing Agile development tools  in Android apps for team management . I've built a customized server using Node.js, Express, and MySQL to support the backend. 
+I'm currently working on a project that involves implementing Agile development tools in Android apps for team management. I've built a customized server using Node.js, Express, and MySQL to support the backend.
 
 ## My Projects
 
-- [classmate](https://github.com/Sharif37/CU-Virtual-Classroom-/tree/main/CUVC) - Classmate is a mobile app that allows students  to access class updates, resources, and transportation schedules, as well as upcoming event and real time update of class control by CR .
+- [Classmate](https://github.com/Sharif37/CU-Virtual-Classroom-/tree/main/CUVC) - Classmate is a mobile app that allows students to access class updates, resources, and transportation schedules, as well as receive real-time updates of class control by CR.
 
 ## GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharif37&show_icons=true&theme=dark)
+![Kazi Omar Sharif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sharif37&show_icons=true&theme=dark)
 
 ## Competitive Programming Profiles
 
@@ -39,9 +46,8 @@ I'm currently working on a project that involves implementing Agile development 
 
 ## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/kazi-omar-sharif-ba13351b8) 
+[LinkedIn](https://www.linkedin.com/in/kazi-omar-sharif-ba13351b8)
 
 ## Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sharif37)
-    
